@@ -1,4 +1,10 @@
+
+![image](https://user-images.githubusercontent.com/89972475/217206608-0b56db59-74f5-4173-9a12-54e26dc9162d.png)
+
+
 # rest
+
+Simple rest application for learning quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
